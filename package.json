@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer_sample",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stprec-yuu/nodemailer_sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stprec-yuu/nodemailer_sample/issues"
+  },
+  "homepage": "https://github.com/stprec-yuu/nodemailer_sample#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.0"
+  }
+}
